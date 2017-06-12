@@ -24,6 +24,7 @@ CLASSIFIERS = [
 
 required = [
     'requests',
+    'urllib3 >=1.21.1, <1.22'
 ]
 
 packages = [
